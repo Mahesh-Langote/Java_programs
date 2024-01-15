@@ -141,3 +141,19 @@ This repository contains Java programs related to printing patterns.
 * * * * * * * * * *
 
 ```
+
+### Reverse Pyramid
+**Output** 
+
+*PS D:\Java\Java_programs\Printing-Pattern> javac star10.java*
+
+*PS D:\Java\Java_programs\Printing-Pattern> java star10*
+```
+* * * * *
+ * * * *
+  * * *
+   * *
+    *
+
+
+```
