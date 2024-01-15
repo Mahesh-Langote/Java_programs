@@ -104,3 +104,25 @@ This repository contains Java programs related to printing patterns.
 
 
 ```
+
+
+### Dimond Pattern
+**Output** 
+
+*PS D:\Java\Java_programs\Printing-Pattern> javac star8.java*
+
+*PS D:\Java\Java_programs\Printing-Pattern> java star8*
+```
+          * 
+        * * *
+      * * * * *
+    * * * * * * *
+  * * * * * * * * *
+* * * * * * * * * * *
+  * * * * * * * * *
+    * * * * * * *
+      * * * * *
+        * * *
+          *
+
+```
