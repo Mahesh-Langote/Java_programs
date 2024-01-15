@@ -22,7 +22,7 @@ This repository contains Java programs related to printing patterns.
 * * * * * *
 ```
 
-### Increasing Square Pattern
+### Increasing triangle Pattern
 **Output** 
 
 *PS D:\Java\Java_programs\Printing-Pattern> javac star2.java*
@@ -38,7 +38,7 @@ This repository contains Java programs related to printing patterns.
 ```
 
 
-### Decreasing Square Pattern
+### Decreasing triangle Pattern
 **Output** 
 
 *PS D:\Java\Java_programs\Printing-Pattern> javac star3.java*
@@ -51,4 +51,20 @@ This repository contains Java programs related to printing patterns.
 * * *
 * *
 *
+```
+
+
+
+### Left Side Increasing triangle Pattern
+**Output** 
+
+*PS D:\Java\Java_programs\Printing-Pattern> javac star4.java*
+
+*PS D:\Java\Java_programs\Printing-Pattern> java star4*
+```
+          * 
+        * *
+      * * *
+    * * * *
+  * * * * *
 ```
