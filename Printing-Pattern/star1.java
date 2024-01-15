@@ -1,4 +1,4 @@
- class start{
+ class star1{
     public static void main(String[] args){
         int a =5;
        for (int j=0; j<=a; j++){
