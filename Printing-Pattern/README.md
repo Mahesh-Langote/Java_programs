@@ -126,3 +126,18 @@ This repository contains Java programs related to printing patterns.
           *
 
 ```
+
+### Double Hill
+**Output** 
+
+*PS D:\Java\Java_programs\Printing-Pattern> javac star9.java*
+
+*PS D:\Java\Java_programs\Printing-Pattern> java star9*
+``` 
+    *         *
+   * *       * *
+  * * *     * * *
+ * * * *   * * * *
+* * * * * * * * * *
+
+```
