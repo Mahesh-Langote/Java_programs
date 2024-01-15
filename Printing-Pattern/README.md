@@ -70,18 +70,20 @@ This repository contains Java programs related to printing patterns.
 ```
 
 
-### Right Side Increasing triangle Pattern
+
+
+### Hill Pattern
 **Output** 
 
-*PS D:\Java\Java_programs\Printing-Pattern> javac star5.java*
+*PS D:\Java\Java_programs\Printing-Pattern> javac star6.java*
 
-*PS D:\Java\Java_programs\Printing-Pattern> java star5*
+*PS D:\Java\Java_programs\Printing-Pattern> java star6*
 ```
-  * * * * * * 
+          * 
+      * * *
     * * * * *
-      * * * *
-        * * *
-          * *
-            *
+  * * * * * * *
+* * * * * * * * *
+
 
 ```
