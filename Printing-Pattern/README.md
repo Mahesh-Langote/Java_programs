@@ -79,11 +79,28 @@ This repository contains Java programs related to printing patterns.
 
 *PS D:\Java\Java_programs\Printing-Pattern> java star6*
 ```
-          * 
+        * 
       * * *
     * * * * *
   * * * * * * *
 * * * * * * * * *
+
+
+```
+
+
+### Reverse Hill Pattern
+**Output** 
+
+*PS D:\Java\Java_programs\Printing-Pattern> javac star7.java*
+
+*PS D:\Java\Java_programs\Printing-Pattern> java star7*
+```
+  * * * * * * * * *
+    * * * * * * *
+      * * * * *
+        * * *
+          *
 
 
 ```
